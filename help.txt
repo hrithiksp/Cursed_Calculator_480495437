@@ -1,0 +1,12 @@
+The following arithmetic operations are valid:
+
+    '^' exponentiation
+    '+' addition
+    '-' subtraction
+    '*' multiplication
+    '/' division
+
+Single-variable algebraic expressions written in terms of 'x' are also valid.
+
+Enter 'h' to display this help message.
+Enter 'q' to quit the program.
